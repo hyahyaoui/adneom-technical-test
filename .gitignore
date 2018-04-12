@@ -1,0 +1,16 @@
+# Java stuff
+*.class
+*.jar
+
+
+# IntelliJ
+*.iml
+/.idea
+/out
+
+# Build and log dirs
+**/bin
+**/target
+**/build
+**/dist
+**/logs
